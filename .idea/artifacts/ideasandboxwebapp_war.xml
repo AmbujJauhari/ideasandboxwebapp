@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ideasandboxwebapp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="intellijsandboxwebapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ideasandboxwebapp:war exploded" />
+    </root>
+  </artifact>
+</component>
